@@ -58,7 +58,7 @@ export const site: SiteConfig = {
   brand: 'Belas Artes Tech',
   tagline: 'SITES SOB MEDIDA',
   price: 'R$ 400',
-  whatsappUrl: 'https://wa.me/55SEUNUMERO', // TODO: trocar pelo número real
+  whatsappUrl: 'https://wa.me/5588997761060',
   accent: '#F2B84B',
 
   hero: {
